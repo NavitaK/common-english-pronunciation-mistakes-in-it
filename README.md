@@ -1,4 +1,4 @@
-# Common English Mistakes in IT
+# Common English Pronunciation Mistakes in IT
 
 * [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst)
 * [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex)

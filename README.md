@@ -14,6 +14,7 @@
 * [Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory)
 * [Module](https://dictionary.cambridge.org/us/dictionary/english/module)
 * [Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern)
+* [Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure)
 * [Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe)
 * [Runnable](https://www.merriam-webster.com/dictionary/runnable)
 * [Schedule](https://dictionary.cambridge.org/us/dictionary/english/schedule)
@@ -22,4 +23,5 @@
 * [Service](https://dictionary.cambridge.org/us/dictionary/english/service)
 * [Suit](https://dictionary.cambridge.org/us/dictionary/english/suit)
 * [Suite](https://dictionary.cambridge.org/us/dictionary/english/suite)
+* [Thread](https://dictionary.cambridge.org/us/dictionary/english/thread)
 * [Variable](https://dictionary.cambridge.org/us/dictionary/english/variable)

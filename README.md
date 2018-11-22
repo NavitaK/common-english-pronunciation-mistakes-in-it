@@ -13,6 +13,7 @@
 * [Layer](https://dictionary.cambridge.org/us/dictionary/english/layer)
 * [Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory)
 * [Module](https://dictionary.cambridge.org/us/dictionary/english/module)
+* [Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern)
 * [Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe)
 * [Runnable](https://www.merriam-webster.com/dictionary/runnable)
 * [Schedule](https://dictionary.cambridge.org/us/dictionary/english/schedule)

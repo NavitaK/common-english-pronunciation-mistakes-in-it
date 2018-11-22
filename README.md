@@ -1,7 +1,7 @@
 # Common English Mistakes in IT
 
 * Complex
-* Consequence
+* [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) /ˈkɑn·sɪ·kwəns, -ˌkwens/
 * Correct
 * Direct
 * Employee
@@ -13,6 +13,7 @@
 * Layer
 * Mandatory
 * Module
+* Recipe /ˈres·ə·pi/ 
 * Runnable
 * Schedule
 * Scheduler

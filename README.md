@@ -4,6 +4,8 @@
 * [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex)
 * [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence)
 * [Correct](https://dictionary.cambridge.org/us/dictionary/english/correct)
+* [Data](https://dictionary.cambridge.org/us/dictionary/english/data)
+* [Debt](https://dictionary.cambridge.org/us/dictionary/english/debt)
 * [Direct](https://dictionary.cambridge.org/us/dictionary/english/direct)
 * [Employee](https://dictionary.cambridge.org/us/dictionary/english/employee)
 * [Employer](https://dictionary.cambridge.org/us/dictionary/english/employer)

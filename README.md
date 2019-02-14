@@ -1,5 +1,7 @@
 # Common English Pronunciation Mistakes in IT
 
+Check yourself by opening links and listening to the actual pronunciation
+
 * [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst)
 * [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex)
 * [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence)

@@ -25,6 +25,7 @@ Check yourself by opening links and listening to the actual pronunciation
 * [Layer](https://dictionary.cambridge.org/us/dictionary/english/layer)
 * [Length](https://dictionary.cambridge.org/us/dictionary/english/length)
 * [Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory)
+* [Mocha](https://dictionary.cambridge.org/us/dictionary/english/mocha)
 * [Module](https://dictionary.cambridge.org/us/dictionary/english/module)
 * [Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern)
 * [Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure)

@@ -10,12 +10,12 @@ Word | US | UK
 [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | noun: ˈkɑːm.pleks<br>adjective: kɑːmˈpleks or ˈkɑːm.pleks | noun: ˈkɒm.pleks<br>adjective: ˈkɒm.pleks or kəmˈpleks
 [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) | ˈkɑːn.sə.kwəns | ˈkɒn.sɪ.kwəns
 [Content](https://dictionary.cambridge.org/us/dictionary/english/content) | noun: ˈkɑːn.tent<br>verb: kənˈtent<br>adjective: kənˈtent | noun: ˈkɒn.tent<br>verb: kənˈtent<br>adjective: kənˈtent
-[Correct](https://dictionary.cambridge.org/us/dictionary/english/correct) |  | 
+[Correct](https://dictionary.cambridge.org/us/dictionary/english/correct) | verb: kəˈrekt<br>adjective: kəˈrekt | verb: kəˈrekt<br>adjective: kəˈrekt
 [Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) | ˈkjuː.kʌm.bɚ | ˈkjuː.kʌm.bər
-[Data](https://dictionary.cambridge.org/us/dictionary/english/data) |  | 
-[Debt](https://dictionary.cambridge.org/us/dictionary/english/debt) |  | 
+[Data](https://dictionary.cambridge.org/us/dictionary/english/data) | ˈdeɪ.t̬ə | ˈdeɪ.tə
+[Debt](https://dictionary.cambridge.org/us/dictionary/english/debt) | det | det
 [Direct](https://dictionary.cambridge.org/us/dictionary/english/direct) |  | 
-[Director](https://dictionary.cambridge.org/us/dictionary/english/director) |  | 
+[Director](https://dictionary.cambridge.org/us/dictionary/english/director) | daɪˈrek.tɚ or dɪˈrek.tɚ | daɪˈrek.tər or dɪˈrek.tər
 [Driven](https://dictionary.cambridge.org/us/dictionary/english/driven) |  | 
 [Employee](https://dictionary.cambridge.org/us/dictionary/english/employee) | ɪmˈplɔɪ.iː orˌem.plɔɪˈiː | ɪmˈplɔɪ.iː or ˌem.plɔɪˈiː
 [Employer](https://dictionary.cambridge.org/us/dictionary/english/employer) | ɪmˈplɔɪ.ɚ | ɪmˈplɔɪ.ər
@@ -31,11 +31,11 @@ Word | US | UK
 [Import](https://dictionary.cambridge.org/us/dictionary/english/import) |  | 
 [Key](https://dictionary.cambridge.org/us/dictionary/english/key) |  | 
 [Layer](https://dictionary.cambridge.org/us/dictionary/english/layer) |  | 
-[Length](https://dictionary.cambridge.org/us/dictionary/english/length) |  | 
+[Length](https://dictionary.cambridge.org/us/dictionary/english/length) | leŋθ | leŋθ
 [Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory) | ˈmændəˌtɔri | ˈmændətəri
-[Mocha](https://dictionary.cambridge.org/us/dictionary/english/mocha) |  | 
-[Module](https://dictionary.cambridge.org/us/dictionary/english/module) |  | 
-[Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern) |  | 
+[Mocha](https://dictionary.cambridge.org/us/dictionary/english/mocha) | ˈmoʊ.kə | ˈmɒk.ə
+[Module](https://dictionary.cambridge.org/us/dictionary/english/module) | ˈmɑː.dʒuːl | ˈmɒdʒ.uːl
+[Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern) | ˈpæt̬.ɚn | ˈpæt.ən
 [Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure) | prəˈsiː.dʒɚ | prəˈsiː.dʒər
 [Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe) | ˈres.ə.pi | ˈres.ɪ.pi
 [Report](https://dictionary.cambridge.org/us/dictionary/english/report) |  | 

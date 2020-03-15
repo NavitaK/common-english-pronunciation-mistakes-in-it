@@ -5,6 +5,7 @@ Check yourself by opening links and listening to the actual pronunciation
 Word | US | UK
 ------------ | ------------- | -------------
 [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst) | ˈæn.ə.lɪst | ˈæn.ə.lɪst
+[Analytics](https://dictionary.cambridge.org/us/dictionary/english/analytics) | æn.əˈlɪt̬.ɪks | æn.əlˈɪt.ɪks
 [Command](https://dictionary.cambridge.org/us/dictionary/english/command) | noun: kəˈmænd<br>verb: kəˈmænd | noun: kəˈmɑːnd<br>verb: kəˈmɑːnd
 [Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | noun: ˈkɑː.ment<br>verb: ˈkɑː.ment | noun: ˈkɒm.ent<br>verb: ˈkɒm.ent
 [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | noun: ˈkɑːm.pleks<br>adjective: kɑːmˈpleks or ˈkɑːm.pleks | noun: ˈkɒm.pleks<br>adjective: ˈkɒm.pleks or kəmˈpleks
@@ -30,7 +31,7 @@ Word | US | UK
 [Hybrid](https://dictionary.cambridge.org/us/dictionary/english/hybrid) |  | 
 [Import](https://dictionary.cambridge.org/us/dictionary/english/import) |  | 
 [Key](https://dictionary.cambridge.org/us/dictionary/english/key) |  | 
-[Layer](https://dictionary.cambridge.org/us/dictionary/english/layer) |  | 
+[Layer](https://dictionary.cambridge.org/us/dictionary/english/layer) | noun: ˈleɪ.ɚ<br>verb: ˈleɪ.ɚ | noun: ˈleɪ.ər<br>verb: ˈleɪ.ər
 [Length](https://dictionary.cambridge.org/us/dictionary/english/length) | leŋθ | leŋθ
 [Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory) | ˈmændəˌtɔri | ˈmændətəri
 [Mocha](https://dictionary.cambridge.org/us/dictionary/english/mocha) | ˈmoʊ.kə | ˈmɒk.ə

@@ -5,11 +5,11 @@ Check yourself by opening links and listening to the actual pronunciation
 Word | US | UK
 ------------ | ------------- | -------------
 [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
-[Command](https://dictionary.cambridge.org/us/dictionary/english/command) | noun: kəˈmænd, verb: kəˈmænd | noun: kəˈmɑːnd, verb: kəˈmɑːnd |
-[Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | noun: ˈkɑː.ment, verb: ˈkɑː.ment | noun: ˈkɒm.ent, verb: ˈkɒm.ent |
-[Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | noun: ˈkɑːm.pleks, adjective: kɑːmˈpleks or ˈkɑːm.pleks | noun: ˈkɒm.pleks, adjective: ˈkɒm.pleks or kəmˈpleks |
+[Command](https://dictionary.cambridge.org/us/dictionary/english/command) | noun: kəˈmænd<br>verb: kəˈmænd | noun: kəˈmɑːnd<br>verb: kəˈmɑːnd |
+[Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | noun: ˈkɑː.ment<br>verb: ˈkɑː.ment | noun: ˈkɒm.ent<br>verb: ˈkɒm.ent |
+[Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | noun: ˈkɑːm.pleks<br>adjective: kɑːmˈpleks or ˈkɑːm.pleks | noun: ˈkɒm.pleks<br>adjective: ˈkɒm.pleks or kəmˈpleks |
 [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) | ˈkɑːn.sə.kwəns | ˈkɒn.sɪ.kwəns |
-[Content](https://dictionary.cambridge.org/us/dictionary/english/content) | noun: ˈkɑːn.tent, verb: kənˈtent, adjective: kənˈtent | noun: ˈkɒn.tent, verb: kənˈtent, adjective: kənˈtent |
+[Content](https://dictionary.cambridge.org/us/dictionary/english/content) | noun: ˈkɑːn.tent<br>verb: kənˈtent<br>adjective: kənˈtent | noun: ˈkɒn.tent<br>verb: kənˈtent<br>adjective: kənˈtent |
 [Correct](https://dictionary.cambridge.org/us/dictionary/english/correct) |  |  |
 [Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) |  |  |
 [Data](https://dictionary.cambridge.org/us/dictionary/english/data) |  |  |
@@ -48,8 +48,7 @@ Word | US | UK
 [Suite](https://dictionary.cambridge.org/us/dictionary/english/suite) |  |  |
 [Startup](https://dictionary.cambridge.org/us/dictionary/english/start-up) |  |  |
 [Thread](https://dictionary.cambridge.org/us/dictionary/english/thread) |  |  |
-[Token](https://dictionary.cambridge.org/us/dictionary/english/token) | noun: ˈtoʊ.kən, adjective: ˈtoʊ.kən | noun: ˈtəʊ.kən, adjective: ˈtəʊ.kən |
-[Variable](https://dictionary.cambridge.org/us/dictionary/english/variable) | noun: ˈver.i.ə.bəl,
- adjective: ˈver.i.ə.bəl | noun: ˈveə.ri.ə.bəl, adjective: ˈveə.ri.ə.bəl |
+[Token](https://dictionary.cambridge.org/us/dictionary/english/token) | noun: ˈtoʊ.kən<br>adjective: ˈtoʊ.kən | noun: ˈtəʊ.kən<br>adjective: ˈtəʊ.kən |
+[Variable](https://dictionary.cambridge.org/us/dictionary/english/variable) | noun: ˈver.i.ə.bəl<br>adjective: ˈver.i.ə.bəl | noun: ˈveə.ri.ə.bəl<br>adjective: ˈveə.ri.ə.bəl |
 [Width](https://dictionary.cambridge.org/us/dictionary/english/width) | wɪtθ or wɪdθ | wɪtθ or wɪdθ |
-[Yield](https://dictionary.cambridge.org/us/dictionary/english/yield) | noun: jiːld,\n verb: jiːld | noun: jiːld, verb: jiːld |
+[Yield](https://dictionary.cambridge.org/us/dictionary/english/yield) | noun: jiːld<br>verb: jiːld | noun: jiːld<br>verb: jiːld |

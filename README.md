@@ -5,8 +5,8 @@ Check yourself by opening links and listening to the actual pronunciation
 Word | US | UK
 ------------ | ------------- | -------------
 [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
-[Command](https://dictionary.cambridge.org/us/dictionary/english/command) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
-[Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
+[Command](https://dictionary.cambridge.org/us/dictionary/english/command) | noun: kəˈmænd, verb: kəˈmænd | noun: kəˈmɑːnd, verb: kəˈmɑːnd |
+[Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | noun: ˈkɑː.ment, verb: ˈkɑː.ment | noun: ˈkɒm.ent, verb: ˈkɒm.ent |
 [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
 [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
 [Content](https://dictionary.cambridge.org/us/dictionary/english/content) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |

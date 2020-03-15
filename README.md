@@ -2,7 +2,9 @@
 
 Check yourself by opening links and listening to the actual pronunciation
 
-* [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst)
+Wolrd | US | UK | Link
+------------ | ------------- | ------------- | -------------
+* [Analyst] | ˈæn.ə.lɪst | ˈæn.ə.lɪst | (https://dictionary.cambridge.org/us/dictionary/english/analyst)
 * [Command](https://dictionary.cambridge.org/us/dictionary/english/command)
 * [Comment](https://dictionary.cambridge.org/us/dictionary/english/comment)
 * [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex)

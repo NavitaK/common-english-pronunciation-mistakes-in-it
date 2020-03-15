@@ -7,9 +7,9 @@ Word | US | UK
 [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
 [Command](https://dictionary.cambridge.org/us/dictionary/english/command) | noun: kəˈmænd, verb: kəˈmænd | noun: kəˈmɑːnd, verb: kəˈmɑːnd |
 [Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | noun: ˈkɑː.ment, verb: ˈkɑː.ment | noun: ˈkɒm.ent, verb: ˈkɒm.ent |
-[Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
-[Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
-[Content](https://dictionary.cambridge.org/us/dictionary/english/content) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
+[Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | noun: ˈkɑːm.pleks, adjective: kɑːmˈpleks or ˈkɑːm.pleks | noun: ˈkɒm.pleks, adjective: ˈkɒm.pleks or kəmˈpleks |
+[Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) | ˈkɑːn.sə.kwəns | ˈkɒn.sɪ.kwəns |
+[Content](https://dictionary.cambridge.org/us/dictionary/english/content) | noun: ˈkɑːn.tent, verb: kənˈtent, adjective: kənˈtent | noun: ˈkɒn.tent, verb: kənˈtent, adjective: kənˈtent |
 [Correct](https://dictionary.cambridge.org/us/dictionary/english/correct) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
 [Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |
 [Data](https://dictionary.cambridge.org/us/dictionary/english/data) | ˈæn.ə.lɪst | ˈæn.ə.lɪst |

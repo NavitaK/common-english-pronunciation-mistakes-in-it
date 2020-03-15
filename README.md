@@ -49,6 +49,7 @@ Word | US | UK
 [Startup](https://dictionary.cambridge.org/us/dictionary/english/start-up) |  |  |
 [Thread](https://dictionary.cambridge.org/us/dictionary/english/thread) |  |  |
 [Token](https://dictionary.cambridge.org/us/dictionary/english/token) | noun: ˈtoʊ.kən, adjective: ˈtoʊ.kən | noun: ˈtəʊ.kən, adjective: ˈtəʊ.kən |
-[Variable](https://dictionary.cambridge.org/us/dictionary/english/variable) | noun: ˈver.i.ə.bəl, adjective: ˈver.i.ə.bəl | noun: ˈveə.ri.ə.bəl, adjective: ˈveə.ri.ə.bəl |
+[Variable](https://dictionary.cambridge.org/us/dictionary/english/variable) | noun: ˈver.i.ə.bəl,
+ adjective: ˈver.i.ə.bəl | noun: ˈveə.ri.ə.bəl, adjective: ˈveə.ri.ə.bəl |
 [Width](https://dictionary.cambridge.org/us/dictionary/english/width) | wɪtθ or wɪdθ | wɪtθ or wɪdθ |
-[Yield](https://dictionary.cambridge.org/us/dictionary/english/yield) | noun: jiːld, verb: jiːld | noun: jiːld, verb: jiːld |
+[Yield](https://dictionary.cambridge.org/us/dictionary/english/yield) | noun: jiːld,\n verb: jiːld | noun: jiːld, verb: jiːld |

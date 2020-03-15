@@ -11,33 +11,33 @@ Word | US | UK
 [Consequence](https://dictionary.cambridge.org/us/dictionary/english/consequence) | ˈkɑːn.sə.kwəns | ˈkɒn.sɪ.kwəns
 [Content](https://dictionary.cambridge.org/us/dictionary/english/content) | noun: ˈkɑːn.tent<br>verb: kənˈtent<br>adjective: kənˈtent | noun: ˈkɒn.tent<br>verb: kənˈtent<br>adjective: kənˈtent
 [Correct](https://dictionary.cambridge.org/us/dictionary/english/correct) |  | 
-[Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) |  | 
+[Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) | ˈkjuː.kʌm.bɚ | ˈkjuː.kʌm.bər
 [Data](https://dictionary.cambridge.org/us/dictionary/english/data) |  | 
 [Debt](https://dictionary.cambridge.org/us/dictionary/english/debt) |  | 
 [Direct](https://dictionary.cambridge.org/us/dictionary/english/direct) |  | 
 [Director](https://dictionary.cambridge.org/us/dictionary/english/director) |  | 
 [Driven](https://dictionary.cambridge.org/us/dictionary/english/driven) |  | 
-[Employee](https://dictionary.cambridge.org/us/dictionary/english/employee) |  | 
-[Employer](https://dictionary.cambridge.org/us/dictionary/english/employer) |  | 
-[Engine](https://dictionary.cambridge.org/us/dictionary/english/engine) |  | 
+[Employee](https://dictionary.cambridge.org/us/dictionary/english/employee) | ɪmˈplɔɪ.iː orˌem.plɔɪˈiː | ɪmˈplɔɪ.iː or ˌem.plɔɪˈiː
+[Employer](https://dictionary.cambridge.org/us/dictionary/english/employer) | ɪmˈplɔɪ.ɚ | ɪmˈplɔɪ.ər
+[Engine](https://dictionary.cambridge.org/us/dictionary/english/engine) | ˈen.dʒɪn | ˈen.dʒɪn
 [Export](https://dictionary.cambridge.org/us/dictionary/english/export) |  | 
 [Feature](https://dictionary.cambridge.org/us/dictionary/english/feature) |  | 
-[Framework](https://dictionary.cambridge.org/us/dictionary/english/framework) |  | 
+[Framework](https://dictionary.cambridge.org/us/dictionary/english/framework) | ˈfreɪm.wɝːk | ˈfreɪm.wɜːk
 [Future](https://dictionary.cambridge.org/us/dictionary/english/future) |  | 
-[Header](https://dictionary.cambridge.org/us/dictionary/english/header) |  | 
-[Height](https://dictionary.cambridge.org/us/dictionary/english/height) |  | 
-[Hierarchy](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) |  | 
+[Header](https://dictionary.cambridge.org/us/dictionary/english/header) | ˈhed.ɚ | ˈhed.ər
+[Height](https://dictionary.cambridge.org/us/dictionary/english/height) | haɪt | haɪt
+[Hierarchy](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | ˈhaɪ.rɑːr.ki | ˈhaɪə.rɑː.ki
 [Hybrid](https://dictionary.cambridge.org/us/dictionary/english/hybrid) |  | 
 [Import](https://dictionary.cambridge.org/us/dictionary/english/import) |  | 
 [Key](https://dictionary.cambridge.org/us/dictionary/english/key) |  | 
 [Layer](https://dictionary.cambridge.org/us/dictionary/english/layer) |  | 
 [Length](https://dictionary.cambridge.org/us/dictionary/english/length) |  | 
-[Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory) |  | 
+[Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory) | ˈmændəˌtɔri | ˈmændətəri
 [Mocha](https://dictionary.cambridge.org/us/dictionary/english/mocha) |  | 
 [Module](https://dictionary.cambridge.org/us/dictionary/english/module) |  | 
 [Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern) |  | 
-[Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure) |  | 
-[Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe) |  | 
+[Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure) | prəˈsiː.dʒɚ | prəˈsiː.dʒər
+[Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe) | ˈres.ə.pi | ˈres.ɪ.pi
 [Report](https://dictionary.cambridge.org/us/dictionary/english/report) |  | 
 [Runnable](https://www.merriam-webster.com/dictionary/runnable) |  | 
 [Schedule](https://dictionary.cambridge.org/us/dictionary/english/schedule) |  | 

@@ -15,22 +15,22 @@ Word | US | UK
 [Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) | ˈkjuː.kʌm.bɚ | ˈkjuː.kʌm.bər
 [Data](https://dictionary.cambridge.org/us/dictionary/english/data) | ˈdeɪ.t̬ə | ˈdeɪ.tə
 [Debt](https://dictionary.cambridge.org/us/dictionary/english/debt) | det | det
-[Direct](https://dictionary.cambridge.org/us/dictionary/english/direct) |  | 
+[Direct](https://dictionary.cambridge.org/us/dictionary/english/direct) | adverb: daɪˈrekt or dɪˈrekt<br>verb: daɪˈrekt or dɪˈrekt<br>adjective: daɪˈrekt or dɪˈrekt | adverb: daɪˈrekt or dɪˈrekt<br>verb: daɪˈrekt or dɪˈrekt<br> adjective: daɪˈrekt or dɪˈrekt
 [Director](https://dictionary.cambridge.org/us/dictionary/english/director) | daɪˈrek.tɚ or dɪˈrek.tɚ | daɪˈrek.tər or dɪˈrek.tər
-[Driven](https://dictionary.cambridge.org/us/dictionary/english/driven) |  | 
+[Driven](https://dictionary.cambridge.org/us/dictionary/english/driven) | ˈdrɪv.ən | ˈdrɪv.ən
 [Employee](https://dictionary.cambridge.org/us/dictionary/english/employee) | ɪmˈplɔɪ.iː orˌem.plɔɪˈiː | ɪmˈplɔɪ.iː or ˌem.plɔɪˈiː
 [Employer](https://dictionary.cambridge.org/us/dictionary/english/employer) | ɪmˈplɔɪ.ɚ | ɪmˈplɔɪ.ər
 [Engine](https://dictionary.cambridge.org/us/dictionary/english/engine) | ˈen.dʒɪn | ˈen.dʒɪn
-[Export](https://dictionary.cambridge.org/us/dictionary/english/export) |  | 
-[Feature](https://dictionary.cambridge.org/us/dictionary/english/feature) |  | 
+[Export](https://dictionary.cambridge.org/us/dictionary/english/export) | verb: ˈek.spɔːrt<br>noun: ˈek.spɔːrt | verb: ɪkˈspɔːt<br>noun: ˈek.spɔːt
+[Feature](https://dictionary.cambridge.org/us/dictionary/english/feature) | noun: ˈfiː.tʃɚ<br>verb: ˈfiː.tʃɚ | noun: ˈfiː.tʃər<br>verb: ˈfiː.tʃər
 [Framework](https://dictionary.cambridge.org/us/dictionary/english/framework) | ˈfreɪm.wɝːk | ˈfreɪm.wɜːk
-[Future](https://dictionary.cambridge.org/us/dictionary/english/future) |  | 
+[Future](https://dictionary.cambridge.org/us/dictionary/english/future) | noun: ˈfjuː.tʃɚ<br>adjective: ˈfjuː.tʃɚ | noun: ˈfjuː.tʃər<br>adjective: ˈfjuː.tʃər
 [Header](https://dictionary.cambridge.org/us/dictionary/english/header) | ˈhed.ɚ | ˈhed.ər
 [Height](https://dictionary.cambridge.org/us/dictionary/english/height) | haɪt | haɪt
 [Hierarchy](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | ˈhaɪ.rɑːr.ki | ˈhaɪə.rɑː.ki
-[Hybrid](https://dictionary.cambridge.org/us/dictionary/english/hybrid) |  | 
-[Import](https://dictionary.cambridge.org/us/dictionary/english/import) |  | 
-[Key](https://dictionary.cambridge.org/us/dictionary/english/key) |  | 
+[Hybrid](https://dictionary.cambridge.org/us/dictionary/english/hybrid) | noun: ˈhaɪ.brɪd<br>adjective: ˈhaɪ.brɪd | noun: ˈhaɪ.brɪd<br>adjective: ˈhaɪ.brɪd
+[Import](https://dictionary.cambridge.org/us/dictionary/english/import) | noun: ˈɪm.pɔːrt<br>verb: ˈɪm.pɔːrt | noun: ˈɪm.pɔːt<br>verb: ɪmˈpɔːt
+[Key](https://dictionary.cambridge.org/us/dictionary/english/key) | noun: kiː<br>adjective: kiː<br>verb: kiː | noun: kiː<br>adjective: kiː<br>verb: kiː
 [Layer](https://dictionary.cambridge.org/us/dictionary/english/layer) | noun: ˈleɪ.ɚ<br>verb: ˈleɪ.ɚ | noun: ˈleɪ.ər<br>verb: ˈleɪ.ər
 [Length](https://dictionary.cambridge.org/us/dictionary/english/length) | leŋθ | leŋθ
 [Mandatory](https://dictionary.cambridge.org/us/dictionary/english/mandatory) | ˈmændəˌtɔri | ˈmændətəri
@@ -39,9 +39,9 @@ Word | US | UK
 [Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern) | ˈpæt̬.ɚn | ˈpæt.ən
 [Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure) | prəˈsiː.dʒɚ | prəˈsiː.dʒər
 [Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe) | ˈres.ə.pi | ˈres.ɪ.pi
-[Report](https://dictionary.cambridge.org/us/dictionary/english/report) |  | 
-[Runnable](https://www.merriam-webster.com/dictionary/runnable) |  | 
-[Schedule](https://dictionary.cambridge.org/us/dictionary/english/schedule) |  | 
+[Report](https://dictionary.cambridge.org/us/dictionary/english/report) | noun: rɪˈpɔːrt<br>verb: rɪˈpɔːrt | noun: rɪˈpɔːt<br>verb: rɪˈpɔːt
+[Runnable](https://www.merriam-webster.com/dictionary/runnable) | ˈrənəbəl | 
+[Schedule](https://dictionary.cambridge.org/us/dictionary/english/schedule) | noun: ˈskedʒ.uːl<br>verb: ˈskedʒ.uːl | noun: ˈʃedʒ.uːl<br>verb: ˈʃedʒ.uːl
 [Scheduler](https://dictionary.cambridge.org/us/dictionary/english/scheduler) | ˈskedʒ.uː.lɚ | ˈʃedʒ.uː.lər
 [Schema](https://dictionary.cambridge.org/us/dictionary/english/schema) | ˈskiː.mə | ˈskiː.mə
 [Service](https://dictionary.cambridge.org/us/dictionary/english/service) | noun: ˈsɝː.vɪs<br>verb: ˈsɜr·vəs | noun: ˈsɜː.vɪs

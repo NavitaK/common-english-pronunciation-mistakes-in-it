@@ -6,6 +6,7 @@ Word | US | UK
 ------------ | ------------- | -------------
 [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst) | ˈæn.ə.lɪst | ˈæn.ə.lɪst
 [Analytics](https://dictionary.cambridge.org/us/dictionary/english/analytics) | æn.əˈlɪt̬.ɪks | æn.əlˈɪt.ɪks
+[Assured](https://dictionary.cambridge.org/us/dictionary/english/assured) | *adjective*: əˈʃʊrd | *adjective*: əˈʃɔːd, *noun*: əˈʃʊəd
 [Command](https://dictionary.cambridge.org/us/dictionary/english/command) | *noun*: kəˈmænd<br>*verb*: kəˈmænd | *noun*: kəˈmɑːnd<br>*verb*: kəˈmɑːnd
 [Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | *noun*: ˈkɑː.ment<br>*verb*: ˈkɑː.ment | *noun*: ˈkɒm.ent<br>*verb*: ˈkɒm.ent
 [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | *noun*: ˈkɑːm.pleks<br>*adjective*: kɑːmˈpleks or ˈkɑːm.pleks | *noun*: ˈkɒm.pleks<br>*adjective*: ˈkɒm.pleks or kəmˈpleks
@@ -21,6 +22,7 @@ Word | US | UK
 [Employee](https://dictionary.cambridge.org/us/dictionary/english/employee) | ɪmˈplɔɪ.iː orˌem.plɔɪˈiː | ɪmˈplɔɪ.iː or ˌem.plɔɪˈiː
 [Employer](https://dictionary.cambridge.org/us/dictionary/english/employer) | ɪmˈplɔɪ.ɚ | ɪmˈplɔɪ.ər
 [Engine](https://dictionary.cambridge.org/us/dictionary/english/engine) | ˈen.dʒɪn | ˈen.dʒɪn
+[Entry](https://dictionary.cambridge.org/us/dictionary/english/entry) | ˈen.tri | ˈen.tri
 [Export](https://dictionary.cambridge.org/us/dictionary/english/export) | *verb*: ˈek.spɔːrt<br>*noun*: ˈek.spɔːrt | *verb*: ɪkˈspɔːt<br>*noun*: ˈek.spɔːt
 [Feature](https://dictionary.cambridge.org/us/dictionary/english/feature) | *noun*: ˈfiː.tʃɚ<br>*verb*: ˈfiː.tʃɚ | *noun*: ˈfiː.tʃər<br>*verb*: ˈfiː.tʃər
 [Framework](https://dictionary.cambridge.org/us/dictionary/english/framework) | ˈfreɪm.wɝːk | ˈfreɪm.wɜːk

@@ -7,6 +7,7 @@ Word | US | UK
 [Analyst](https://dictionary.cambridge.org/us/dictionary/english/analyst) | ˈæn.ə.lɪst | ˈæn.ə.lɪst
 [Analytics](https://dictionary.cambridge.org/us/dictionary/english/analytics) | æn.əˈlɪt̬.ɪks | æn.əlˈɪt.ɪks
 [Assured](https://dictionary.cambridge.org/us/dictionary/english/assured) | *adjective*: əˈʃʊrd | *adjective*: əˈʃɔːd, *noun*: əˈʃʊəd
+[Chaos](https://dictionary.cambridge.org/us/dictionary/english/chaos) | ˈkeɪ.ɑːs | ˈkeɪ.ɒs
 [Command](https://dictionary.cambridge.org/us/dictionary/english/command) | *noun*: kəˈmænd<br>*verb*: kəˈmænd | *noun*: kəˈmɑːnd<br>*verb*: kəˈmɑːnd
 [Comment](https://dictionary.cambridge.org/us/dictionary/english/comment) | *noun*: ˈkɑː.ment<br>*verb*: ˈkɑː.ment | *noun*: ˈkɒm.ent<br>*verb*: ˈkɒm.ent
 [Complex](https://dictionary.cambridge.org/us/dictionary/english/complex) | *noun*: ˈkɑːm.pleks<br>*adjective*: kɑːmˈpleks or ˈkɑːm.pleks | *noun*: ˈkɒm.pleks<br>*adjective*: ˈkɒm.pleks or kəmˈpleks
@@ -16,6 +17,7 @@ Word | US | UK
 [Cucumber](https://dictionary.cambridge.org/us/dictionary/english/cucumber) | ˈkjuː.kʌm.bɚ | ˈkjuː.kʌm.bər
 [Data](https://dictionary.cambridge.org/us/dictionary/english/data) | ˈdeɪ.t̬ə | ˈdeɪ.tə
 [Debt](https://dictionary.cambridge.org/us/dictionary/english/debt) | det | det
+[Determine](https://dictionary.cambridge.org/us/dictionary/english/determine) | dɪˈtɝː.mɪn | dɪˈtɜː.mɪn
 [Direct](https://dictionary.cambridge.org/us/dictionary/english/direct) | *adverb*: daɪˈrekt or dɪˈrekt<br>*verb*: daɪˈrekt or dɪˈrekt<br>*adjective*: daɪˈrekt or dɪˈrekt | *adverb*: daɪˈrekt or dɪˈrekt<br>*verb*: daɪˈrekt or dɪˈrekt<br> *adjective*: daɪˈrekt or dɪˈrekt
 [Director](https://dictionary.cambridge.org/us/dictionary/english/director) | daɪˈrek.tɚ or dɪˈrek.tɚ | daɪˈrek.tər or dɪˈrek.tər
 [Driven](https://dictionary.cambridge.org/us/dictionary/english/driven) | ˈdrɪv.ən | ˈdrɪv.ən
@@ -39,6 +41,7 @@ Word | US | UK
 [Mocha](https://dictionary.cambridge.org/us/dictionary/english/mocha) | ˈmoʊ.kə | ˈmɒk.ə
 [Module](https://dictionary.cambridge.org/us/dictionary/english/module) | ˈmɑː.dʒuːl | ˈmɒdʒ.uːl
 [Pattern](https://dictionary.cambridge.org/us/dictionary/english/pattern) | ˈpæt̬.ɚn | ˈpæt.ən
+[Post-mortem](https://dictionary.cambridge.org/us/dictionary/english/post-mortem) | ˌpoʊstˈmɔːr.t̬əm | ˌpəʊstˈmɔː.təm
 [Procedure](https://dictionary.cambridge.org/us/dictionary/english/procedure) | prəˈsiː.dʒɚ | prəˈsiː.dʒər
 [Recipe](https://dictionary.cambridge.org/us/dictionary/english/recipe) | ˈres.ə.pi | ˈres.ɪ.pi
 [Report](https://dictionary.cambridge.org/us/dictionary/english/report) | *noun*: rɪˈpɔːrt<br>*verb*: rɪˈpɔːrt | *noun*: rɪˈpɔːt<br>*verb*: rɪˈpɔːt
@@ -49,6 +52,7 @@ Word | US | UK
 [Service](https://dictionary.cambridge.org/us/dictionary/english/service) | *noun*: ˈsɝː.vɪs<br>*verb*: ˈsɜr·vəs | *noun*: ˈsɜː.vɪs
 [Suit](https://dictionary.cambridge.org/us/dictionary/english/suit) | *noun*: suːt<br>*verb*: suːt | *noun*: sjuːt<br>*verb*: suːt
 [Suite](https://dictionary.cambridge.org/us/dictionary/english/suite) | swiːt | swiːt
+[Survey](https://dictionary.cambridge.org/us/dictionary/english/survey) | *noun*: ˈsɝː.veɪ<br>*verb*: sɚˈveɪ | *noun*: ˈsɜː.veɪ<br>*verb*: ˈsɜː.veɪ
 [Startup](https://dictionary.cambridge.org/us/dictionary/english/start-up) | ˈstɑːrt.ʌp | ˈstɑːt.ʌp
 [Thread](https://dictionary.cambridge.org/us/dictionary/english/thread) | *noun*: θred<br>*verb*: θred | *noun*: θred
 [Token](https://dictionary.cambridge.org/us/dictionary/english/token) | *noun*: ˈtoʊ.kən<br>*adjective*: ˈtoʊ.kən | *noun*: ˈtəʊ.kən<br>*adjective*: ˈtəʊ.kən
